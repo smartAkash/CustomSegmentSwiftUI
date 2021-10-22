@@ -30,3 +30,6 @@ struct ContentView : View {
     }
 }
 ```
+<img width="260" alt="Screenshot 2021-10-22 at 4 11 53 PM" src="https://user-images.githubusercontent.com/18400249/138440888-9dbb6429-0af5-4c30-afaa-0bb562e04bfc.png">
+<img width="248" alt="Screenshot 2021-10-22 at 4 12 39 PM" src="https://user-images.githubusercontent.com/18400249/138440974-640afd8b-a20f-4d24-996e-fdc88676370f.png">
+<img width="242" alt="Screenshot 2021-10-22 at 4 12 45 PM" src="https://user-images.githubusercontent.com/18400249/138440988-2610b8e5-ffd5-4c76-8283-32cef0d2fe39.png">
